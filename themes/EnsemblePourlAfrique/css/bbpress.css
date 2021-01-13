@@ -1,0 +1,11 @@
+#bbpress-forums {
+    background: transparent;
+    clear: both;
+    margin-bottom: 20px;
+    overflow: hidden;
+    font-size: 16px !important;;
+    }
+#bbpress-forums .bbp-forums-list li {
+    display: list-item !important;
+    font-size: 15px;
+    }
